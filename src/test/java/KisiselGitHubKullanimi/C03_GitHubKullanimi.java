@@ -1,6 +1,6 @@
 package KisiselGitHubKullanimi;
 
-public class C0_GitHubKullanimi {
+public class C03_GitHubKullanimi {
     public static void main(String[] args) {
 
         System.out.println("Ben hala GitHub kullanmaya devam ediyorum.");
